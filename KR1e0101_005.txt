@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 左傳事緯
-#+DATE: 2015-09-23 09:40:33
-#+PROPERTY: JUAN 5
+#+DATE: 2015-08-24 22:16:59.082901
+#+PROPERTY: ID KR1e0101
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五
 <pb:KR1e0101_WYG_005-1a>¶
 欽定四庫全書¶
 　左傳事緯卷五　　　　　靈璧知縣馬驌撰¶
@@ -1154,4 +1156,3 @@
 　¶
 　¶
 　左傳事緯卷五¶
-

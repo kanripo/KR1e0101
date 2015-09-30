@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 左傳事緯
-#+DATE: 2015-09-23 09:40:33
-#+PROPERTY: JUAN 15
+#+DATE: 2015-08-24 22:16:59.305078
+#+PROPERTY: ID KR1e0101
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 前集卷二
 <pb:KR1e0101_WYG_015-1a>¶
 欽定四庫全書¶
 　左傳事緯前集卷二　　　　靈璧知縣馬驌撰¶
@@ -866,4 +868,3 @@
 　¶
 　¶
 　左傳事緯前集卷二¶
-

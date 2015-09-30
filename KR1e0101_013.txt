@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 左傳事緯
-#+DATE: 2015-09-23 09:40:33
-#+PROPERTY: JUAN 13
+#+DATE: 2015-08-24 22:16:59.273816
+#+PROPERTY: ID KR1e0101
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 例畧
 <pb:KR1e0101_WYG_013-1a>¶
 左傳事緯例畧¶
 舊文傳麗於經年時月日以相繫維也易編年爲叙事¶
@@ -38,4 +40,3 @@
 式分國别氏指掌瞭然名曰春秋名氏譜¶
 六書不明豕亥致紊附以左𫝊字釋用為考訂之助焉¶
 (以上前/書例)¶
-
